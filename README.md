@@ -20,7 +20,7 @@ PredictApp is an intelligent system that predicts diseases based on symptoms. It
 
 ## 🏗 **Project Overview**  
 
-![Architecture Diagram](https://raw.githubusercontent.com/Oussamaroom67/docs-predictapp/main/architecture.jpg)  
+![image](https://github.com/user-attachments/assets/059cd780-cbc4-4efa-97a0-3fccc7583e71)
 
 1️⃣ The **frontend** allows users to input symptoms.  
 2️⃣ The **backend** processes requests and communicates with the **ML API**.  
